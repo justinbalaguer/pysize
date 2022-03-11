@@ -7,6 +7,7 @@
 ## INSTALLATION
 
 `$ git clone https://github.com/justinbalaguer/pysize.git`
+
 `$ pip3 install -e pysize`
 
 ## HOW TO USE
