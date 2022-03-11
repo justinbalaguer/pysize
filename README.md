@@ -24,4 +24,4 @@ option/s:
 
 ## UNINSTALL
 
-`$ pip3 uninstall gawa`
+`$ pip3 uninstall pysize`
