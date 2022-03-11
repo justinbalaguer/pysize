@@ -1,15 +1,15 @@
-#PYSIZE
+# PYSIZE
 
-##REQUIREMENTS
+## REQUIREMENTS
 
 `Python 3^`
 
-##INSTALLATION
+## INSTALLATION
 
 `$ git clone https://github.com/justinbalaguer/pysize.git`
 `$ pip3 install -e pysize`
 
-##HOW TO USE
+## HOW TO USE
 
 `$ pysize <width> <height> <extension> <option>`
 
@@ -21,6 +21,6 @@ option/s:
   example: $ pysize 150 150 .jpg resize
 ```
 
-##UNINSTALL
+## UNINSTALL
 
 `$ pip3 uninstall gawa`
